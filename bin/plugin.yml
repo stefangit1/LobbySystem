@@ -1,0 +1,6 @@
+name: LobbySystem
+version: 1.0
+main: de.sofamann.lobbysys.main.Main
+
+commands:
+   system:
