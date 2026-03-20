@@ -1,6 +1,6 @@
 # LobbySystem
 *Minecraft Version: 1.8*  
-**LobbySystem** A simple system used to dynamically add Waypoints, a Game Menu and other convenient Features to let players coordinate through your server.
+**LobbySystem** is a simple system used to dynamically add Waypoints, a Game Menu and other convenient Features to let players coordinate through your server.
 
 ## Features
 - Warps *Create new warps with many different options*
