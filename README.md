@@ -18,7 +18,7 @@
 
 ## Installation  
 
-1. Download the plugin `lobbysystem.jar` file  
+1. Download the plugin `LobbySystem.jar` file  
 2. Place it in your server's `plugins` folder  
 3. Restart or reload your server  
 4. Done!  
